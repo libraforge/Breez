@@ -11,8 +11,6 @@ Breez is the open-source accounting tool built for solopreneurs, freelancers, an
 
 All the power QuickBooks promises, none of the headaches. Breez is accounting for people, not accountants.
 
----
-
 ## Status
 
 ⚠️ **Early stage / active development**
